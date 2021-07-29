@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Amit
-- 👀 I’m interested in Coding in General
-- 🌱 I’m currently learning JavaScript, Node, Angular & Data Structures
+- 👀 I’m interested in Web Development and AI
+- 🌱 I’m currently learning JavaScript, Data Structures & Machine Learning
 - 💞️ I’m looking to collaborate on something simple to begin with
+- 🧡 📚🐛, 📽🎞 and 🎶🎧
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amit-divekar/) & [Twitter](https://twitter.com/Pola8976)
 
 <!---
