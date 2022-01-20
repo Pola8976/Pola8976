@@ -5,7 +5,7 @@
 - 🧡: 📚🐛, 📽🎞 and 🎶🎧
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amit-divekar/) & [Twitter](https://twitter.com/Pola8976)
 
-Wordle 216 5/6
+- Wordle 216 5/6
 ⬛⬛⬛⬛⬛
 🟩🟨⬛⬛⬛
 🟩🟩⬛⬛⬛
